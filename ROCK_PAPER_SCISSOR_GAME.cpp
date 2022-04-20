@@ -1,4 +1,4 @@
-                        /* PROJECT TITLE: ROCK-PAPER -SCISSORS GAME*/
+                        /* PROJECT TITLE: ROCK-PAPER -SCISSOR GAME*/
 
 /*
 PROJECT PROBLEM:
